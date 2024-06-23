@@ -1,5 +1,5 @@
 # MMI_Sentiment_Scraper
-This is a Web SCraper made using Python and Selenium. <br>
+This is a Web Scraper made using Python and Selenium. <br>
 For this pythin script to work it needs a chromedriver.exe which should be download based on your computer's Chrome Browser Current Version. <br>
 Relevant version of chromedriver.exe can be downloaded form this link: https://sites.google.com/chromium.org/driver/
 
